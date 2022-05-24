@@ -8,6 +8,6 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="hello-servlet" style="color: chartreuse">Hello Servlet</a>
+<a href="hello-servlet" style="color: chartreuse">Hello git!</a>
 </body>
 </html>
